@@ -48,8 +48,8 @@ Hi, I'm Nvi, a Full Stack JavaScript Developer from Canada. Lately, I'm project 
 
 ## Github stats:
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=nvimai&show_icons=true&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nvimai-expogain&show_icons=true&hide_border=true&count_private=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvimai&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nvimai-expogain&layout=compact" />
 </a>
